@@ -1,0 +1,1 @@
+sed -n  '/nologin/p' passwd_ejer

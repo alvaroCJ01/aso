@@ -1,0 +1,1 @@
+sed -i s/tcp/TCP/g services_ejer

@@ -1,0 +1,1 @@
+sed -n  '1p' passwd_ejer

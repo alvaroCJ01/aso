@@ -1,0 +1,1 @@
+sed = hostname_ejer | sed 'N;s/\n/ /' > prueba.txt && mv prueba.txt hostname_ejer
